@@ -99,4 +99,9 @@ img {
   list-style: none;
   text-decoration: none;
 }
+
+.post-snippet h3 a {
+  list-style: none;
+  text-decoration: none;
+}
 }
