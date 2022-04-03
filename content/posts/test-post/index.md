@@ -1,6 +1,6 @@
 ---
 title: "How to setup a blog "
-date: 2021-09-30T10:08:37.721Z
+date: 2022-04-03T10:08:00.000Z
 image: car-9.jpg
 ---
 Step by step of setting up a blog website 
