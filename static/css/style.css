@@ -80,7 +80,8 @@ img {
   color: wheat;
   width: auto;
   height: 20px;
-  padding-top: 0;
+  padding: 5;
+    margin: 5px;
 }
 
 /* LISTS */
