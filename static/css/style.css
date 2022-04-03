@@ -90,9 +90,13 @@ img {
 
 .post-snippet {
   margin-bottom: 1rem;
+  list-style: none;
+  text-decoration: none;
 }
 
 .post-snippet h3 {
   margin-bottom: 0.25rem;
+  list-style: none;
+  text-decoration: none;
 }
 }
